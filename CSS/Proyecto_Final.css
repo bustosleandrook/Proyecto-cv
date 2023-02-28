@@ -107,7 +107,6 @@ P {
     font-size:22px ;
     text-align: center;
     color: #111135;
-    
     text-decoration-thickness: 50px;
 
 }
@@ -117,6 +116,7 @@ P {
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    text-align: center;
 }
 
 footer {
